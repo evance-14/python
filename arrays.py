@@ -15,6 +15,6 @@ print(data)
 #adding an alement using insert at a specific index 2
 data.insert(2,20.3)
 print(data)
-
+  
 
 
