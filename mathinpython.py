@@ -29,5 +29,6 @@ plt.ylabel('cos(x)')
 plt.grid()
 plt.legend()
 plt.show()
+#end
 
 
