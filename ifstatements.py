@@ -21,6 +21,7 @@ b= 8
     #print(" b is equal to a")
 
 #conditional statement example using if elif & else
+
 age = 20
 if age < 18:
     print("You are a minor")
