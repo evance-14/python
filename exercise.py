@@ -19,6 +19,7 @@ def generate_fibonacci(N):
     return fibonacci_numbers
 
 # Test the function with N = 10
+
 N = 10
 print(f"The first {N} Fibonacci numbers:")
 print(generate_fibonacci(N))
